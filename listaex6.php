@@ -9,5 +9,6 @@ $d=1.5;
 $resultado=sqrt(pow($a,$b/$a))+$c*$d;
 print $resultado;
 
+/* number_format([NUMERO], [NUMERO_CASAS_DECIMAIS], [SEPARADOR_DECIMAL], [SEPARADOR_MILHAR]) */
 
 ?>
